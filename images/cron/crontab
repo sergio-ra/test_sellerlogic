@@ -1,2 +1,2 @@
-*/5 * * * * /bin/bash /root/top10.sh
+*/15 * * * * /bin/bash /root/top10.sh
 # Single container cron example

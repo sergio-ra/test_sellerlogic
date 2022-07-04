@@ -14,11 +14,11 @@ jobs:
         uses: actions/upload-artifact@v2
         with:
           name: app
-          path: /images
+          path: ./images
           
       -
         name: Upload artifact
         uses: actions/upload-artifact@v2
         with:
           name: logs
-          path: /logs
+          path: ./logs
